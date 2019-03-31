@@ -1,0 +1,3 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (cjgaragedoor) (1)" radius="5.5637608" interior="0" model="17951" lodModel="0" posX="2505.8799" posY="-1690.9562" posZ="13.87685" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

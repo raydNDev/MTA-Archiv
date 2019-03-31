@@ -1,0 +1,34 @@
+<meta>
+	<info author = "Xendom Rayden"/>
+
+	<script src = "Adminmodus/Adminmodus-server.lua"/>
+	<script src = "Adminmodus/Adminmodus-client.lua" type = "client"/>
+	
+	<script src = "Baserush/Baserush-server.lua"/>
+	<script src = "Baserush/Baserush-client.lua" type = "client"/>
+	
+	<script src = "Busfahrer/Busfahrer-server.lua"/>
+	<script src = "Busfahrer/Busfahrer-client.lua" type = "client"/>
+	
+	<script src = "Carrob/mapEditoScriptingExension_s.lua"/>
+	<script src = "Carrob/mapEditoScriptingExension_c.lua" type = "client"/>
+	<script src = "Carrob/Carrob-server.lua"/>
+	<map src = "Carrob/removeGarage.map"/>
+	
+	<script src = "Drogentransporter/Drogentransporter-server.lua"/>
+	
+	<script src = "Matstransporter/Matstransporter-server.lua"/>
+	<script src = "Matstransporter/Matstransporter-client.lua" type = "client"/>
+	
+	<script src = "Pilot/Pilot-server.lua"/>
+	<script src = "Pilot/Pilot-client.lua" type = "client"/>
+	
+	<script src = "Reporthalle/Reporthalle-server.lua"/>
+	<map src = "Reporthalle/Reporthalle.map"/>
+	
+	<script src = "Waffentransport/Waffentransport-server.lua"/>
+	<script src = "Waffentransport/Waffentransport-client.lua" type = "client"/>
+	
+	<script src = "Werbung/Werbung-server.lua"/>
+	<script src = "Werbung/Werbung-client.lua" type = "client"/>
+</meta>
