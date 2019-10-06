@@ -1,0 +1,15 @@
+<meta>
+	<info author = "Xendom Rayden" type = "script" version = "0.0.1"/>
+
+	<file src = "Files/1.jpg"/>
+	<file src = "Files/2.jpg"/>
+	<file src = "Files/3.jpg"/>
+	<file src = "Files/4.jpg"/>
+	<file src = "Files/5.jpg"/>
+	<file src = "Files/6.jpg"/>
+	<file src = "Files/Card.jpg"/>
+	<file src = "Files/Life.png"/>
+	<file src = "Files/meddl.mp3"/>
+	
+	<script src = "cMemory.lua" type = "client"/>
+</meta>
