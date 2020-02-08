@@ -1,4 +1,9 @@
---// © Xendom Rayden ~ 2019
+--[[
+
+	Memory
+	© Xendom Rayden
+
+]]--
 
 clearChatBox();
 outputChatBox("Use /memory to play.");
