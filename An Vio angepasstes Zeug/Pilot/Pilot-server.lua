@@ -1,7 +1,6 @@
 --[[
 
 	Pilot
-	2016 - 2018
 	© Xendom Rayden
 
 ]]--
