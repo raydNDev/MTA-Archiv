@@ -186,7 +186,3 @@ function Memory.refreshAll()
 	unbindKey("backspace","down",Memory.refreshAll);
 	for i = 1,6 do Memory["CardDatas"][i] = 0 end
 end
-
-for _,v in pairs(getElementsByType("player"))do
-	setElementData(v,"Money",999999);
-end
