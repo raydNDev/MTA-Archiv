@@ -7,6 +7,8 @@
 	Line 29: local result = dbPoll(dbQuery(HANDLER,"SELECT * FROM globalchat WHERE Server = '1'"),-1);
 	
 	Now your users can communicate from server to server.
+
+	© xendomrayden
 	
 ]]--
 
