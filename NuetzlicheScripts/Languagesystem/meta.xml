@@ -1,0 +1,7 @@
+<meta>
+	<info author = "xendomrayden"/>
+	
+	<script src = "Shared.lua" type = "shared"/>
+	<script src = "sLanguage.lua"/>
+	<script src = "cLanguage.lua" type = "client"/>
+</meta>
