@@ -1,5 +1,8 @@
 --[[
 	
+	Globalchat
+	© Xendom Rayden
+	
 	This script allows to communicate via a globalchat from server to server.
 	Just start this script on your other server too and change the id.
 	
@@ -7,8 +10,6 @@
 	Line 29: local result = dbPoll(dbQuery(HANDLER,"SELECT * FROM globalchat WHERE Server = '1'"),-1);
 	
 	Now your users can communicate from server to server.
-
-	© xendomrayden
 	
 ]]--
 
