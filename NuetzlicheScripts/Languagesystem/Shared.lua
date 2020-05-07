@@ -1,4 +1,9 @@
--- [[ © xendomrayden ]] --
+--[[
+
+	Multiple Languagesystem
+	© Xendom Rayden
+
+]]--
 
 Language = {};
 
