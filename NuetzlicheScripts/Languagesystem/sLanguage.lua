@@ -1,4 +1,9 @@
--- [[ © xendomrayden ]] --
+--[[
+
+	Multiple Languagesystem
+	© Xendom Rayden
+
+]]--
 
 function loc(player,text)
 	if(not(getElementData(player,"Langauge")))then type = "DE" else type = getElementData(player,"Language")end
